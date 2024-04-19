@@ -35,6 +35,6 @@ Google Colab Pro A100
 ![image](https://github.com/AIKU-Official/Magical_SOLARgodong/assets/80198264/17212892-7f20-4a2e-8be1-54ca8a60e073)
 
 ## 팀원
-- 김민영
+- [김민영] (https://github.com/EuroMinyoung186/)
 - 박서현
 - 박정규
