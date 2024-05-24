@@ -36,5 +36,5 @@ Google Colab Pro A100
 
 ## 팀원
 - [김민영](https://github.com/EuroMinyoung186/)
-- 박서현
+- [박서현](https://github.com/emiliebell/)
 - 박정규
